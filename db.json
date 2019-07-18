@@ -4,6 +4,12 @@
       "id": 1,
       "email": "ozgurtorun1996@gmail.com",
       "pass":"123445"
-    }
+    },
+    {
+    "id": 2,
+    "email": "cantorun@gmail.com",
+    "pass":"123456!"
+  }
   ]
+  
   }
